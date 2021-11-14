@@ -1,0 +1,9 @@
+J:\c#\BingBG\BingBG\bin\Debug\BingBG.exe.config
+J:\c#\BingBG\BingBG\bin\Debug\BingBG.exe
+J:\c#\BingBG\BingBG\bin\Debug\BingBG.pdb
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.csprojResolveAssemblyReference.cache
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.Form1.resources
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.Properties.Resources.resources
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.csproj.GenerateResource.Cache
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.exe
+J:\c#\BingBG\BingBG\obj\Debug\BingBG.pdb
